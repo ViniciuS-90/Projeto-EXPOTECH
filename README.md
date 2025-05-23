@@ -45,7 +45,7 @@ Minimizar: Σ (custo_unitário × x[t] + custo_pedido × Q[t] + custo_estoque ×
 
 ### 1. **Pré-requisitos**
 ```bash
-pip install pulp matplotlib numpy
+pip install pulp matplotlib
 ```
 
 ### 2. **Executar o Projeto**
