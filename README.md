@@ -39,7 +39,6 @@ Minimizar: Σ (custo_unitário × x[t] + custo_pedido × Q[t] + custo_estoque ×
 - **Python 3.x**
 - **PuLP**: Programação Linear Inteira
 - **Matplotlib**: Visualização de dados
-- **NumPy**: Operações matemáticas (nas análises complementares)
 
 ## ⚡ **Como Executar**
 
